@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "cli-template-test",
+  "name": "cli-test-template",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {

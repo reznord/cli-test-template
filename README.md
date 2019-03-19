@@ -1,4 +1,4 @@
-# foo
+# cli-test-template
 
 ## CLI Commands
 
