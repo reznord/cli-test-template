@@ -29,7 +29,7 @@
     "preact-render-spy": "^1.2.1"
   },
   "dependencies": {
-    "preact": "10.0.0-alpha.2",
+    "preact": "10.0.0-beta.1",
     "preact-router": "3.0.0"
   },
   "jest": {

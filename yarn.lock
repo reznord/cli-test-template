@@ -7708,12 +7708,10 @@ preact-router@3.0.0:
   resolved "https://registry.yarnpkg.com/preact-router/-/preact-router-3.0.0.tgz#352bb4c2bba3fa7aad2a686fd0371ae247ce3159"
   integrity sha512-v/dTwXa0TAeP2NTf4YFvT+TygejoSxN4Un9y90sNJiM/r6EY6wqBEoxmCdTTz5Yb101iP3Zuwr+4Wby7ZY1S+w==
 
-preact@10.0.0-alpha.2:
-  version "10.0.0-alpha.2"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-10.0.0-alpha.2.tgz#61ba4f2ca20b75352ad5ed8aa239302df83dae74"
-  integrity sha512-8G0UFC0Sa/giqI/jR3LIHzj0ohsIC4wnB+8+XdpHFEZ5GmtFLmQgkrrkdR0EcEAdd38geClUSj30H8AEIO4OqA==
-  dependencies:
-    prop-types "^15.6.2"
+preact@10.0.0-beta.1:
+  version "10.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.0.0-beta.1.tgz#f7d524668db72ed74e99d447f09600fa4db0b186"
+  integrity sha512-1uhj3JXOEzEPUof5t/iQW5heEvTOpexwS0FLAjJQfgfT8OCXICyzI2TwkYyFJ+W9q9GsDmhZgFagH2G0akFveQ==
 
 prelude-ls@~1.1.2:
   version "1.1.2"
